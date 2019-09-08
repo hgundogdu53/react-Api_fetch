@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 10%;
+    line-height: 24px;
+    display: block;
+}
+
+.country_selector {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
